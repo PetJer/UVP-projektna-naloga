@@ -7,6 +7,38 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 
 
+def normaliziraj_obdobje(zacetek, konec):
+    match konec:
+        case "":
+            konec = zacetek
+        case '>':
+            # Maksimum leta delovanja je letnica izida knjige
+            konec = '2018'
+
+    return {
+        "zacetek_aktivnosti": int(zacetek.replace('*', '')),
+        "konec_aktivnosti": int(konec.replace('*', '')),
+        "domneven_zacetek": '*' in zacetek,
+        "domneven_konec": '*' in konec
+    }
+
+
+def normaliziraj_strani(strani_):
+    strani = []
+
+    for s in strani_:
+        if s == "":
+            continue
+
+        if '-' in s:
+            s1, s2 = s.split('-')
+            strani.extend(list(range(int(s1), int(s2)+1)))
+        else:
+            strani.append(int(s))
+    
+    return strani
+
+
 def pridobi_orglarje(driver):
     driver.get(f"https://orgle.si/osebe")
 
@@ -18,7 +50,7 @@ def pridobi_orglarje(driver):
     iframe = driver.find_element(By.NAME, "vsebina")
     driver.switch_to.frame(iframe)
 
-    tabela_orglarjev = driver.find_element(By.ID, "OS")
+    tabela = driver.find_element(By.ID, "OS")
 
     stevilo_zapisov = Select(driver.find_element(By.ID, "slcResults_OS"))
     stevilo_zapisov.select_by_value("50")
@@ -29,13 +61,13 @@ def pridobi_orglarje(driver):
 
     # Zajemanje podatkov iz tabele orglarjev razporejene čez 4 strani
     for _ in range(4):
-        orglarji_stran = tabela_orglarjev.find_elements(By.XPATH, ".//tbody/tr")
+        orglarji_tabela = tabela.find_elements(By.XPATH, ".//tbody/tr")
 
         # Odstranitev skritih orglarjev iz seznama
-        orglarji_stran = [o for o in orglarji_stran if o.text != ""]
+        orglarji_tabela = [o for o in orglarji_tabela if o.text != ""]
 
         # Urejanje podatkov v berljivo obliko
-        for orglar_vrstica in orglarji_stran:
+        for orglar_vrstica in orglarji_tabela:
 
             # Zajemanje podatkov o orglarju
             orglar_ = [o.text.strip() for o in orglar_vrstica.find_elements(By.XPATH, ".//td")]
@@ -48,48 +80,31 @@ def pridobi_orglarje(driver):
             # Drugi nazivi (celo ime, drugi zapisi imena, sodelavci, nasledniki ...)
             orglar["drugi_nazivi"] = orglar_[1].replace(';', ',').replace('=', '').split(", ")
 
-            # Obdobje in obmocja delovanja
-            obdobje, obmocja = re.search(r"(.*?)\s+\((.*)\)", orglar_[2]).groups()
+            # Obdobje in območja delovanja
+            obdobje_, obmocja_ = re.search(r"(.*?)\s+\((.*)\)", orglar_[2]).groups()
+            orglar["obmocja"] = obmocja_.split(", ")
 
-            orglar["obdobje"] = re.search(r"(.*)-(.*)", obdobje.replace('–', '-')).groups()
-            orglar["obmocje"] = obmocja.split(", ")
+            obdobje_ = obdobje_.replace('–', '-')
+            obdobje_ = re.search(r"(.*)-(.*)", obdobje_).groups()
+            orglar.update(normaliziraj_obdobje(obdobje_[0], obdobje_[1]))
 
-            # Seznam strani, kjer je oseba omenjena.
+            # Strani z omembo orglarja v knjigi
             strani_ = orglar_[-1].replace('–', '-').split(", ")
-            
-            strani = []
+            orglar["strani_z_omembo"] = normaliziraj_strani(strani_)
 
-            for s in strani_:
-                if s == "":
-                    continue
-
-                if '-' in s:
-                    s1, s2 = s.split('-')
-                    strani.extend(list(range(int(s1), int(s2)+1)))
-                else:
-                  strani.append(int(s))
-            
-            orglar["strani"] = strani
-
-            # Dodajanje orglarja v koncni seznam vseh orglarjev
             orglarji.append(orglar)
 
         naslednja_stran.click()
+
+    driver.quit()
 
     return orglarji
 
 
 def pridobi_podatke():
-
-    # Uvodna nastavitev brskalnika za zajemanje podatkov
     nastavitve = Options()
     nastavitve.add_argument("--headless")
 
     driver = webdriver.Chrome(options=nastavitve)
 
-    # Pridobitev podatkov
-    orglarji = pridobi_orglarje(driver)
-
-    driver.quit()
-
-    return orglarji
+    return pridobi_orglarje(driver)
