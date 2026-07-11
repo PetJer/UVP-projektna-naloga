@@ -39,7 +39,11 @@ def normaliziraj_strani(strani_):
     return strani
 
 
-def pridobi_orglarje(driver):
+def pridobi_orglarje():
+    nastavitve = Options()
+    nastavitve.add_argument("--headless")
+
+    driver = webdriver.Chrome(options=nastavitve)
     driver.get(f"https://orgle.si/osebe")
 
     WebDriverWait(driver, 5).until(
@@ -82,12 +86,13 @@ def pridobi_orglarje(driver):
 
             # Obdobje in območja delovanja
             obdobje_, obmocja_ = re.search(r"(.*?)\s+\((.*)\)", orglar_[2]).groups()
-            orglar["obmocja"] = obmocja_.split(", ")
 
             obdobje_ = obdobje_.replace('–', '-')
             obdobje_ = re.search(r"(.*)-(.*)", obdobje_).groups()
             orglar.update(normaliziraj_obdobje(obdobje_[0], obdobje_[1]))
 
+            orglar["obmocja_delovanja"] = obmocja_.split(", ")
+            
             # Strani z omembo orglarja v knjigi
             strani_ = orglar_[-1].replace('–', '-').split(", ")
             orglar["strani_z_omembo"] = normaliziraj_strani(strani_)
@@ -99,12 +104,3 @@ def pridobi_orglarje(driver):
     driver.quit()
 
     return orglarji
-
-
-def pridobi_podatke():
-    nastavitve = Options()
-    nastavitve.add_argument("--headless")
-
-    driver = webdriver.Chrome(options=nastavitve)
-
-    return pridobi_orglarje(driver)

@@ -1,10 +1,11 @@
-def pridobi_orglarje_v_obdobju(csv, zacetek, konec, celo_obdobje, glej_domnevno = True):
+def pridobi_orglarje_v_obdobju(org, zacetek, konec, glej_domnevno = True):
     try:
-        if celo_obdobje:
-            aktivni_orglarji = csv[(zacetek <= csv.zacetek_aktivnosti) & (csv.konec_aktivnosti <= konec)]
-        else:
-            aktivni_orglarji = csv[(csv.zacetek_aktivnosti <= zacetek) & (konec <= csv.konec_aktivnosti)]
-        
+        aktivni_orglarji = org[
+            org.zacetek_aktivnosti.between(zacetek, konec)
+            | org.konec_aktivnosti.between(zacetek, konec)
+            | ((org.zacetek_aktivnosti <= zacetek) & (konec <= org.konec_aktivnosti))
+        ]
+               
         if glej_domnevno:
             return aktivni_orglarji
         
@@ -13,9 +14,9 @@ def pridobi_orglarje_v_obdobju(csv, zacetek, konec, celo_obdobje, glej_domnevno 
         print("Pridobitev orglarjev v obdobju ni bilo mogoče.")
 
 
-def pridobi_cas_delovanja(csv, kratek_naziv):
+def pridobi_cas_delovanja(org, kratek_naziv):
     try:
-        orglar = csv[csv.kratek_naziv == kratek_naziv]
+        orglar = org[org.kratek_naziv == kratek_naziv]
 
         zacetek = orglar.zacetek_aktivnosti.values[0]
         konec = orglar.konec_aktivnosti.values[0]
@@ -27,9 +28,9 @@ def pridobi_cas_delovanja(csv, kratek_naziv):
         return 0
 
 
-def pridobi_orglarje_v_obmocjih(csv, iskana_obmocja):
+def pridobi_orglarje_v_obmocjih(org, iskana_obmocja):
     try:
-        return csv[csv.obmocja.apply(
+        return org[org.obmocja_delovanja.apply(
                 lambda obmocja: any(
                     [obmocje in eval(obmocja) for obmocje in iskana_obmocja]
                 )
@@ -39,9 +40,9 @@ def pridobi_orglarje_v_obmocjih(csv, iskana_obmocja):
         print("Pridobitev orglarjev v območjih ni bilo mogoče.")
 
 
-def pridobi_omenjene_orglarje(csv, stran):
+def pridobi_omenjene_orglarje(org, stran):
     try:
-        return csv[csv.strani_z_omembo.apply(
+        return org[org.strani_z_omembo.apply(
                 lambda strani: stran in eval(strani)
             )
         ]
