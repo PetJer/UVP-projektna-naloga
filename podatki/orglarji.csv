@@ -1,162 +1,162 @@
-kratek_naziv,drugi_nazivi,obmocja,zacetek_aktivnosti,konec_aktivnosti,domneven_zacetek,domneven_konec,strani_z_omembo
-Aletti,['Fratelli Aletti'],['IT'],1927,1927,False,False,"[163, 420]"
-Allgäuer,['Helmut Algäuer'],['AT'],1997,1997,False,False,[594]
-Angster,['Josef Angster'],['HU'],1884,1918,False,False,"[29, 38, 75, 130, 166, 175, 203, 247, 327, 329, 341, 345, 450, 465, 574]"
-Antolić,['Filip Antolić Soban'],['HR'],1983,1983,False,False,"[195, 203, 351, 357, 614]"
-Bencz,"['Georgio Bencz', 'Jurij Benč']",['GO'],1935,1940,False,False,"[25, 29, 38, 121, 153, 185, 215, 219, 369, 380, 549, 572, 611, 634]"
-Benda,['Andrej Benda'],['LJ'],1951,1969,False,False,"[25, 29, 58, 73, 111, 112, 120, 127, 296, 333, 337, 382, 396, 431, 447, 457, 480, 499, 511, 529, 531, 532, 551, 560, 597, 603, 623, 624, 634, 661]"
-Bervar,['Josip Bervar'],['CE'],1890,1898,False,False,"[171, 325, 343, 620]"
-Bilih,"['Jernej Bilih', 'Batholomä Billich']",['CE'],1837,1887,False,False,"[27, 45, 124, 158, 179, 187, 191, 194, 204, 244, 311, 327, 336, 347, 366, 375, 409, 415, 423, 443, 504, 522, 525, 529, 544, 561, 623, 642]"
-Blanc,['Pietro Blanc Albo'],['GO'],1464,1470,False,False,[18]
-Bosch,['Werner Bosch'],['DE'],1950,1970,True,True,[372]
-Bossi,"['Pietro Antonio Bossi', 'Vicenzo Bossi', 'Pietro A. di Giuseppe Bossi']",['GO'],1801,1882,False,False,"[25, 28, 35, 37, 211, 378, 407, 447, 514, 544, 562, 612]"
-Bračko,['Ludvik Bračko'],['MB'],1990,2013,False,False,"[89, 90, 199, 256, 307, 311, 317, 318, 321, 335, 370, 415, 430, 440, 475, 477, 525, 564, 599, 627, 628, 640]"
-Brandl,['Josip Brandl'],['MB'],1894,1938,False,False,"[29, 30, 38, 80, 84, 85, 106, 107, 136, 161, 162, 173, 174, 187, 189, 193, 196, 199, 222, 225, 235, 240, 253, 256, 279, 306, 307, 311, 316, 317, 318, 319, 322, 324, 328, 334, 335, 336, 347, 365, 371, 373, 380, 387, 388, 396, 401, 404, 412, 424, 426, 428, 438, 439, 445, 448, 470, 473, 477, 486, 488, 495, 506, 512, 513, 518, 525, 556, 557, 570, 572, 577, 579, 590, 599, 607, 611, 614, 621, 627, 628, 640, 642]"
-Bukovšek,['Marijan Bukovšek'],['LJ'],2000,2018,False,False,"[58, 59, 60, 65, 78, 126, 143, 144, 152, 200, 251, 271, 305, 334, 390, 396, 409, 415, 420, 429, 435, 439, 466, 501, 506, 517, 562, 572, 599, 619, 634, 646, 671, 673]"
-Cajhen,"['Martin Cajhen', 'Martin Zeichen']",['CE'],1858,1866,False,False,"[28, 37, 45, 61, 63, 65, 87, 349, 402, 409, 419, 440, 455, 477, 481, 486, 509, 564, 637]"
-Callido,"['Gaetano Callido', 'Antonio Callido', 'Agostino Callido']",['IT'],1769,1803,False,False,"[25, 28, 35, 37, 185, 217, 219, 318, 377, 378, 407, 558, 626]"
-Casparini,"['Eugenio Casparini', 'Johann Eugen Caspar']","['DE', 'GO', 'IT']",1660,1698,False,False,"[22, 24, 33, 34, 364]"
-Colarič,['Franc Colarič'],['KO'],1880,1897,False,False,[25]
-Cecilia,"['Cecilia Gorica', 'Caecilia Gorizia']",['GO'],1928,1934,False,False,"[29, 32, 38, 53, 54, 56, 147, 153, 154, 168, 169, 207, 225, 253, 466, 528, 575, 678]"
-Collona,['Vincenzo Colonna'],['IT'],1606,1606,False,False,"[19, 33]"
-Corte,['Pietro de Corte'],['GO'],1851,1864,False,False,[25]
-Černe,['Boštjan Černe'],['LJ'],1990,2018,False,False,"[31, 39, 73, 77, 119, 120, 121, 128, 135, 154, 155, 199, 206, 213, 222, 226, 232, 257, 275, 280, 308, 314, 331, 343, 358, 362, 377, 385, 392, 413, 426, 438, 452, 461, 488, 490, 521, 525, 538, 549, 571, 572, 612, 621, 626, 630, 647, 648, 670, 673]"
-Dernič,['Anton Dernič'],['LJ'],1910,1928,False,False,"[29, 38, 64, 65, 72, 73, 86, 238, 289, 293, 294, 432, 447, 457, 483, 489, 499, 541, 563, 635]"
-Deutschmann,['Janez Deutschmann'],"['AT', 'MB']",1860,1863,False,False,[195]
-Dev,['Fran Ksaver Dev'],['LJ'],1855,1870,False,False,"[17, 27, 32, 34, 38, 47, 64, 65, 74, 82, 92, 122, 135, 137, 142, 168, 169, 170, 176, 204, 207, 209, 213, 215, 233, 235, 236, 237, 238, 240, 242, 251, 253, 256, 280, 286, 296, 307, 343, 360, 371, 375, 390, 391, 399, 422, 446, 448, 461, 467, 475, 491, 492, 515, 523, 535, 537, 551, 588, 597, 613, 622, 624, 626, 630, 648, 663, 676]"
-Dvoršak,"['Andrej Dvoršak', 'Orglarska delavnica Maribor']",['MB'],2013,2018,False,False,"[300, 373, 430, 486, 511]"
-Ebner,"['Leonhard Ebner', 'Lenart Ebner']",['MB'],1855,1885,False,False,"[27, 123, 126, 130, 147, 152, 154, 187, 211, 242, 249, 258, 322, 367, 451, 467, 469, 506, 592, 599, 607]"
-Eißl,"['Joannes Georgius Eißl', 'Johann Georg Eißl', 'Janez Jurij Eisel']",['LJ'],1753,1780,False,False,"[23, 24, 26, 34, 73, 135, 150, 171, 172, 194, 199, 216, 266, 275, 289, 349, 366, 455, 518, 529, 535, 549, 600, 602, 643, 647]"
-Faller,"['Janez Faller', 'Johann Faller']",['LJ'],1680,1733,False,True,"[24, 34, 111, 174, 340, 345, 404, 480, 496, 521, 604, 612, 630, 635]"
-Faust,['Paul Faust'],['DE'],1948,1948,False,False,[653]
-Fluder,['Caspar Fluder'],['AT'],1668,1680,False,False,"[188, 340]"
-Freundt,['Johannes Freundt'],['DE'],1660,1680,False,False,"[22, 33]"
-Frobenius,['Frobenius Orgelbyggeri'],['DN'],1957,1957,False,False,[189]
-Georgius de Venetia,['Georgius de Venetia'],"['GO', 'IT']",826,826,False,False,[18]
-Göbl,"['Marko Göbl', 'Marcus Göbl']",['LJ'],1741,1754,False,False,"[24, 34, 199, 275, 420, 433, 606]"
-Goršič,"['Franc Goršič', 'Martin Goršič']",['LJ'],1856,1898,False,False,"[27, 28, 29, 31, 37, 38, 39, 43, 56, 65, 78, 93, 95, 101, 119, 132, 135, 149, 154, 163, 170, 176, 177, 180, 183, 201, 206, 207, 216, 221, 222, 225, 236, 264, 266, 268, 270, 289, 292, 293, 299, 300, 308, 325, 329, 333, 340, 356, 357, 364, 383, 390, 391, 399, 411, 412, 432, 433, 442, 443, 456, 466, 472, 479, 483, 488, 492, 493, 506, 518, 529, 536, 543, 547, 569, 582, 588, 602, 603, 608, 611, 623, 626, 627, 630, 631, 636, 644, 645, 646, 650]"
-Göstl,['Andrej Göstl'],['NM'],1840,1858,False,False,"[25, 501]"
-Grafenauer,"['Franc Grafenauer', 'Jožef Grafenauer']",['KO'],1847,1913,False,False,"[25, 28, 37]"
-Grebičičer,"['Ignac Grebičičer', 'Ignaz Grebitschitscher', 'Ignaz Grobitschitscher']",['KO'],1725,1784,False,False,[24]
-Habersack,['Stefan Habersack'],['GR'],1719,1719,False,False,[370]
-Hägglinger,['Jacob Hägglinger'],['GR'],1696,1696,False,False,"[484, 552, 609]"
-Hallecker,"['Alojz Hallecker', 'Alois Hallegger']",['MB'],1873,1888,False,False,"[443, 479]"
-Heferer,"['Michael Heferer', 'Mijo Heferer']",['HR'],1873,1899,True,False,"[406, 469, 571, 574]"
-Hesse,"['Karl Hesse', 'Carl Hesse']",['GO'],1847,1852,False,False,"[25, 28, 29, 25, 37, 121, 369, 399, 418, 571]"
-Hofbauer,[''],['DE'],1982,1988,False,False,"[143, 276, 288, 482, 580]"
-Hörbiger,"['Alois Hörbiger', 'Alois Herberg']",['CE'],1842,1867,False,False,"[28, 29, 37, 61, 85, 95, 101, 104, 111, 132, 136, 147, 151, 154, 155, 165, 167, 191, 192, 197, 243, 244, 247, 252, 275, 312, 374, 383, 394, 396, 402, 406, 415, 438, 440, 451, 470, 471, 491, 494, 495, 506, 508, 522, 535, 560, 561, 572, 590, 605, 622, 632, 640, 651]"
-Janeček,"['Janez Frančišek Janeček', 'Jan František Janeček', 'Johannes Franciscus Janechek']",['CE'],1721,1777,False,False,"[7, 24, 25, 26, 31, 35, 39, 43, 45, 66, 77, 78, 79, 87, 92, 97, 101, 109, 111, 112, 140, 172, 177, 179, 180, 243, 245, 258, 286, 308, 324, 351, 362, 375, 392, 422, 423, 435, 448, 451, 452, 458, 461, 470, 471, 495, 496, 512, 525, 535, 536, 549, 560, 561, 566, 573, 587, 591, 592, 616, 623, 630, 631, 632, 647, 651]"
-Jenko,"['Franc Jenko', 'Anton Jenko']",['LJ'],1927,1997,False,False,"[29, 30, 31, 38, 39, 55, 60, 64, 65, 67, 68, 69, 73, 75, 80, 82, 86, 90, 92, 99, 101, 102, 104, 105, 107, 110, 111, 116, 118, 121, 122, 123, 125, 132, 133, 135, 136, 138, 139, 143, 145, 148, 151, 152, 154, 161, 166, 170, 173, 175, 176, 177, 179, 182, 183, 190, 193, 201, 202, 205, 206, 207, 213, 215, 216, 217, 220, 223, 225, 227, 228, 234, 236, 242, 243, 252, 256, 257, 259, 260, 261, 264, 269, 271, 279, 280, 282, 288, 289, 291, 293, 294, 297, 299, 304, 306, 307, 309, 310, 314, 319, 321, 330, 334, 337, 338, 339, 341, 344, 350, 352, 353, 354, 356, 358, 370, 374, 377, 380, 381, 382, 383, 385, 389, 390, 391, 392, 393, 398, 399, 401, 405, 406, 411, 413, 414, 415, 417, 419, 420, 424, 425, 429, 430, 431, 435, 439, 441, 442, 444, 456, 461, 462, 464, 467, 469, 470, 474, 477, 483, 485, 500, 503, 510, 516, 518, 527, 529, 531, 533, 542, 543, 545, 546, 547, 548, 554, 555, 556, 557, 560, 564, 566, 569, 570, 571, 576, 577, 579, 580, 582, 583, 586, 590, 591, 593, 596, 600, 603, 604, 605, 606, 612, 615, 616, 617, 630, 634, 642, 646, 649, 650, 651, 653, 661]"
-Ježek,"['Karl Ježek', 'Zitzmann & Jeschek Fabricca Organi']",['GO'],1925,1930,False,False,"[29, 80, 161, 270, 342, 447, 490, 619, 646, 654]"
-Jydsk,['Jydsk Orgelbyggeri'],['DN'],1968,1968,False,False,[432]
-Kacin,['Ivan Kacin'],['GO'],1925,1930,False,False,"[29, 30, 38, 54, 56, 59, 67, 80, 86, 159, 169, 170, 196, 197, 202, 211, 237, 254, 282, 337, 352, 364, 369, 438, 440, 460, 549, 583, 643]"
-Kafka,['Adalbert Kafka'],['MB'],1859,1880,False,False,"[243, 322, 387, 426, 495, 605, 614]"
-Kaper,['Joseph Kaper'],['KO'],1859,1880,False,False,[252]
-Kerssenbrock,['Hubertus von Kerssenbrock'],['DE'],1984,1988,False,False,"[92, 97, 98, 101, 105, 109, 150, 172, 260, 302, 305, 404, 409, 431, 432, 493, 496, 497, 501, 587, 630, 631, 650]"
-Kheverspichler,"['Thomas Kheverspichler', ' Thomas Kheuerspiller']",['GR'],1628,1652,False,False,"[24, 35]"
-Knoller,['Franz Knoller'],['KO'],1700,1730,False,False,[399]
-Kolar,"['Simon Kolar', 'Orglarstvo Kolar']",['CE'],1990,2018,False,False,"[31, 35, 39, 63, 67, 72, 84, 98, 107, 118, 120, 125, 156, 167, 171, 188, 192, 225, 237, 262, 312, 322, 330, 334, 362, 372, 396, 410, 413, 417, 421, 428, 445, 473, 481, 483, 521, 528, 531, 539, 558, 560, 569, 584, 591, 594, 600, 616, 617, 627, 637, 638, 646, 650, 670, 672]"
-Korošak,"['Franc Korošak', 'Franz Koroschak']","['MB', 'DE']",1867,1891,False,False,"[137, 311, 488]"
-Košir,"['Brane Košir', 'Branko Košir', 'Orglarska delavnica Maribor']","['MB', 'LJ']",1990,2018,False,False,"[31, 39, 58, 75, 107, 109, 131, 149, 150, 162, 165, 174, 187, 205, 268, 270, 272, 282, 293, 300, 302, 305, 306, 311, 312, 315, 333, 367, 403, 404, 433, 436, 446, 458, 466, 480, 534, 536, 553, 621, 671, 673]"
-Krainz,"['Mathias Krainz', 'Matija Krainz']","['GR', 'MB']",1872,1882,False,False,"[28, 37, 90, 122, 221, 231, 307, 308, 321, 478, 486, 506, 572, 574, 639]"
-Krajnc,"['Mihael Krajnc', 'Michael Krainz']","['GR', 'MB']",1872,1882,False,False,"[28, 113, 122, 308, 321, 381, 478, 536, 558]"
-Krek,"['Tomaž Krek', 'Thomas Kruegh']",['LJ'],1647,1650,False,False,"[9, 22, 33, 109, 260, 496]"
-Krenn,['Orgelbau Krenn'],['DE'],1991,1991,False,False,[329]
-Kriegl,['Karol Kriegel'],['LJ'],1898,1904,False,False,"[160, 334, 364, 432, 510, 537, 543, 556, 569]"
-Križman,"['Frančišek Ksaver Križman', 'Franz Xaver Chrismann']","['GO', 'LJ', 'AT']",1761,1795,False,False,"[11, 22, 25, 31, 34, 35, 39, 43, 80, 93, 132, 188, 284, 286, 354, 356, 480, 588, 674]"
-Kučera,"['Josip Kučera', 'Joseph Alois Kutschera']",['LJ'],1781,1826,False,False,"[24, 26, 34, 45, 125, 360, 386, 431, 432, 480, 562, 584, 633, 643]"
-Kuhar,"['Janez Kuhar', 'Johann Kuher']",['KO'],1899,1916,False,False,"[116, 130, 334]"
-Kuhn,['Kuhn Orgelbau'],['CH'],1979,1979,False,False,[259]
-Kunath,"['Johann Gottfried Kunath', 'Janez Kunat', 'Eduard Kunad']","['LJ', 'TS']",1818,1882,False,False,"[25, 26, 28, 35, 37, 40, 57, 73, 103, 161, 213, 214, 284, 286, 294, 311, 329, 377, 385, 464, 472, 489, 493, 521, 538, 541, 547, 551, 552, 554, 563, 584, 600]"
-Lauterspeck,"['Christoph Lauterspeck', 'C. Lautterspeck', 'Johann Lauterspeck']",['CE'],1641,1688,False,False,"[22, 33, 426, 501, 502, 504, 619]"
-Lenarčič,"['Andrej Lenarčič', 'Acordia']",['LJ'],1987,2005,False,False,"[143, 227, 274, 296, 302, 422, 455, 469, 491, 558]"
-Lilling,['Hans Peter Lilling'],['GR'],1607,1630,False,False,"[24, 35]"
-Lindtner,['Mathias Lindtner'],['LJ'],1630,1650,False,False,"[22, 33]"
-Link,['Gebrüder Link'],['DE'],1960,1960,False,False,"[4, 14, 34, 35, 37, 40, 47, 389]"
-Lipušček,"['Ivan Lipušček', 'Janez Lipušček']",['GO'],1893,1911,False,False,"[58, 147, 156, 214, 254, 373, 389, 392, 447]"
-Lukman,['Drago Lukman'],['MB'],2000,2018,False,False,"[31, 39, 56, 156, 193, 209, 235, 306, 311, 315, 422, 423, 498, 529, 576, 606, 608, 671, 672]"
-Magister de Justinopoli,[''],['GO'],1380,1390,False,False,"[18, 32]"
-Malahovski,"['Andrej Ferdinand Malahovski', 'Ferdinandus Malachovsky', 'Andrej Malakhovky']",['LJ'],1840,1881,False,False,"[28, 37, 45, 58, 60, 78, 143, 144, 156, 179, 223, 225, 227, 238, 274, 288, 289, 291, 293, 306, 311, 335, 341, 390, 440, 484, 510, 538, 593, 602, 603, 623, 636, 639, 645, 653]"
-Malej,"['Ferdinand Malej', 'Ferdinand Mally']",['CE'],1862,1862,False,False,[252]
-Manderscheidt,['Sebald Manderscheidt'],['DE'],1682,1682,False,False,"[22, 33, 502]"
-Mandlin,"['Janez Mandlin', 'Johan Mandlin']",['NM'],1852,1880,False,False,"[27, 28, 37, 53, 96, 103, 125, 127, 150, 160, 338, 339, 358, 366, 404, 466, 472, 480, 532, 537, 572, 582, 586, 651]"
-Maribor,"['Škofijska orglarska delavnica', 'Orglarska delavnica Maribor']",['MB'],1989,2018,False,False,"[30, 54, 67, 74, 75, 83, 90, 92, 97, 99, 107, 112, 113, 122, 131, 137, 140, 148, 149, 150, 155, 157, 162, 173, 174, 176, 178, 180, 184, 187, 199, 203, 204, 205, 206, 209, 224, 230, 242, 245, 249, 261, 266, 268, 269, 270, 272, 279, 282, 286, 300, 302, 306, 311, 315, 319, 321, 325, 328, 360, 367, 368, 373, 387, 392, 399, 401, 403, 404, 415, 418, 430, 436, 437, 450, 451, 463, 464, 466, 467, 472, 480, 482, 486, 492, 495, 498, 501, 503, 510, 511, 514, 529, 534, 536, 548, 549, 555, 558, 563, 576, 579, 586, 588, 614, 620, 632, 636, 641, 655, 673, 670, 671]"
-Martenssons,['Martenssons Orgelfabrik'],['SW'],1961,1961,False,False,[88]
-Martl,"['Venčeslav Martl', 'Venceslavus Marthal']",['CE'],1803,1825,False,False,"[25, 26, 35, 45, 69, 77, 92, 112, 132, 143, 160, 170, 214, 233, 344, 348, 393, 402, 466, 470, 471, 481, 482, 499, 501, 504, 523, 533, 539, 566, 614, 621, 623]"
-Mascioni,['Fabbrica d’organi Mascioni'],['IT'],1926,1988,False,False,"[182, 318, 352, 508, 625]"
-Mauracher,"['Mathias Mauracher', 'Johann Mauracher']",['AT'],1860,1912,False,False,"[86, 97, 160, 215, 266, 324, 354, 381, 466, 611, 633]"
-Mayer,"['Gebrüder Mayer', 'Brata Mayer']",['AT'],1902,1915,False,False,"[58, 118, 125, 133, 161, 223, 235, 237, 271, 274, 334, 358, 371, 410, 426, 435, 473, 496, 510, 517, 521, 534, 538, 542, 546, 594]"
-Mencinger,"['Jakob Matzinger', '*Franc Mencinger']",['MB'],1835,1835,False,False,"[444, 600]"
-Merlini,['Francesco Merlini'],['IT'],1805,1805,False,False,"[25, 35, 217, 337]"
-Mihaljević,['Josip Mihaljević'],['HR'],2016,2016,False,False,"[64, 106, 349]"
-Milavec,['Ivan Milavec'],['LJ'],1904,1915,False,False,"[11, 12, 27, 29, 38, 54, 56, 58, 59, 60, 69, 73, 88, 110, 118, 123, 128, 132, 141, 142, 143, 147, 165, 180, 188, 199, 200, 202, 225, 230, 231, 233, 236, 261, 264, 280, 284, 286, 300, 314, 333, 380, 412, 413, 438, 463, 482, 515, 540, 545, 562, 573, 577, 579, 583, 586, 593, 619, 624, 653, 654]"
-Mitterreiter,"['Andreas Mitterreiter', 'Georg Mitterreiter']",['GR'],1726,1737,False,False,"[24, 35, 82, 95, 306, 426, 491, 576]"
-Močnik,"['Tomaž Močnik', 'Orglarstvo Močnik']",['LJ'],1998,2018,False,False,"[31, 39, 55, 59, 60, 67, 83, 88, 89, 93, 95, 109, 111, 112, 118, 150, 165, 171, 172, 173, 189, 205, 230, 233, 234, 242, 264, 268, 272, 277, 282, 290, 295, 304, 306, 343, 348, 356, 369, 371, 382, 386, 391, 420, 432, 456, 464, 466, 467, 479, 489, 491, 508, 518, 523, 529, 535, 539, 540, 564, 567, 568, 579, 580, 596, 597, 599, 607, 611, 620, 632, 636, 644, 645, 646, 653, 661, 670, 673]"
-Mönch,['Mönch Orgelbau Überlingen'],['DE'],1943,1943,False,False,"[305, 405]"
-Munda,['Zlatko Mudna'],['MB'],2009,2018,False,False,"[391, 396, 398, 617]"
-Nakić,"['Petar Nakić', 'Pietro Nachini', 'P. Nacchini', 'P.Nachik']","['HR', 'IT']",1743,1760,False,False,"[25, 35, 37, 178, 185, 217, 262, 287, 378, 407, 632]"
-Naraks,"['Franc Naraks', 'Ivan Naraks']",['CE'],1856,1912,False,False,"[27, 29, 38, 55, 78, 82, 90, 98, 99, 127, 140, 141, 142, 143, 156, 157, 159, 167, 175, 191, 192, 203, 240, 245, 315, 327, 329, 339, 374, 383, 384, 388, 391, 394, 395, 396, 400, 404, 409, 410, 417, 419, 420, 425, 436, 437, 445, 462, 464, 470, 498, 500, 501, 504, 512, 529, 533, 536, 555, 558, 561, 563, 567, 572, 573, 584, 590, 604, 623, 630, 637, 638, 639, 640, 646, 650]"
-Niclas argelmeister,[''],['MB'],1452,1460,False,False,[18]
-Novak,['Rudolf Novak'],['KO'],1984,1984,False,False,"[30, 105, 253, 448]"
-Oettl,['Hermann Oettl'],['DE'],1968,1968,False,False,[209]
-Omerzu,"['Anton Omerzu', 'Anton Omerzel']",['CE'],1881,1889,False,False,"[126, 226, 542, 607, 632]"
-Orszagh,['Országh Sándor és Fia'],['HU'],1857,1857,False,False,[428]
-Osredkar,"['Janez Osredkar', 'Lovro Osredkar']",['LJ'],1986,1994,False,False,"[122, 190, 261, 272, 275, 276, 295, 450]"
-Otonič,"['Simon Otoničer', 'Simon Otonitscher', 'Jožef Otonič', 'Joseph Otonitsch']",['MB'],1765,1832,False,False,"[24, 26, 35, 45, 126, 127, 149, 150, 173, 179, 190, 194, 196, 197, 235, 307, 312, 315, 366, 394, 395, 444, 445, 464, 473, 486, 491, 516, 540, 549, 553, 554, 591, 600, 642, 647]"
-Ottitsch,"['Walter Ottitsch', 'Bernhardt Ottitsch']",['KO'],1986,1987,False,False,"[78, 221, 321, 443]"
-Papa,['Jožef Papa'],"['LJ', 'HR']",1838,1841,False,False,"[231, 574]"
-Pauhaus,"['Jurij Ulrik Pauhaus', ' Georg Ulrik Pauhauss']",['LJ'],1710,1730,False,False,"[24, 34]"
-Pavlinić,"['Glazbeni atelier Pavlinić', 'Zlatko Pavlinić']",['HR'],2006,2006,False,False,[640]
-Peppert,['Ferdinand Peppert'],['HU'],1829,1872,False,False,"[74, 168]"
-Peřina,['Anton Peřina'],['LJ'],1928,1941,False,False,[354]
-Pevec,['Franc Pevec'],['LJ'],1861,1861,False,False,"[7, 103, 175, 403, 462]"
-Pietro de Zuanne,[''],['IT'],1530,1540,False,False,"[19, 33]"
-Počivalšek,"['Matej Počivalšek', 'Mathias Počivalšek']",['CE'],1856,1856,False,False,[195]
-Porritt,['Joshua Porritt'],['GB'],1906,1906,False,False,[359]
-Posch,"['Izak Poš', 'Isaac Posch']",['AT'],1617,1622,False,False,"[22, 33]"
-Pračker,"['Elias Pračker', 'Elias Prozer', ' Elias Prätzer']","['KO', 'AT']",1725,1774,False,False,"[23, 34]"
-Pugina,['Annibale e fratello Pugina'],['IT'],1897,1897,False,False,"[377, 378]"
-Račič,['Andrej Račič'],['NM'],1854,1870,False,False,"[26, 28, 37, 103, 317, 584, 633]"
-Raktelj,['Dominik Raktelj'],['MB'],1870,1888,False,False,"[92, 93, 256, 315, 317, 370, 381, 486, 641]"
-Reiser,['Albert Reiser'],['DE'],1940,1940,False,False,[405]
-Rieger,['Gebrüder Rieger'],['CZ'],1883,1912,False,False,"[55, 99, 137, 138, 297, 347, 456, 609, 655]"
-Rojc,"['Peter Rojc', 'Peter Rojic']",['LJ'],1840,1875,False,False,"[27, 28, 37, 75, 147, 148, 161, 179, 213, 310, 369, 386, 464, 483, 488, 579, 635, 651, 653]"
-Römer,['Anton Josef Römer'],"['CZ', 'GR']",1764,1770,False,True,"[23, 34, 193, 317, 564]"
-Rotenburg,"['Paul Rottenburger', 'Paul Rotenburg']",['KO'],1639,1639,False,False,"[19, 22, 26, 29, 33, 38]"
-Rumpel,"['Peter Rumpel', 'Peter Rumpl', 'Janez Rumpel']",['LJ'],1822,1860,False,False,"[25, 28, 35, 37, 90, 111, 113, 115, 122, 123, 124, 125, 127, 138, 142, 143, 147, 148, 157, 175, 181, 182, 184, 201, 213, 214, 227, 233, 236, 242, 253, 256, 302, 333, 343, 389, 399, 417, 445, 460, 461, 462, 464, 488, 510, 519, 526, 527, 531, 534, 539, 542, 547, 553, 556, 569, 572, 586, 622, 634, 636, 646, 647, 648]"
-Rupnik,['Mihael Rupnik'],['CE'],1859,1891,False,False,"[67, 115, 123, 233, 250, 354, 375, 377, 393, 452, 461, 462, 490, 502, 514, 592, 620, 628, 647, 648, 658]"
-Salb,['Josip Salb'],['MB'],1850,1853,False,False,"[153, 325, 445, 464, 465]"
-Sašek,['Matevž Sašek'],['NM'],1874,1885,False,False,"[156, 576]"
-Schehl,"['Karl Schehl', 'Carl Schehl', 'Karol Schechel', 'Franz Schehl', '*Karl Spel']",['GR'],1825,1846,False,False,"[67, 90, 150, 153, 189, 325, 417, 422, 426, 478, 503, 511, 536, 637, 642, 643]"
-Scholtz,"['Anton Scholtz', 'Antoni Scholz']",['CE'],1778,1799,False,False,"[25, 26, 35, 80, 92, 120, 144, 177, 232, 306, 327, 344, 350, 362, 366, 375, 395, 419, 442, 499, 512, 525, 539, 566, 579, 587, 608, 621]"
-Schuke,['Karl Schuke Berliner Orgelbauwerkstatt GmbH.'],['DE'],1982,1982,False,False,"[25, 30, 35, 39, 261]"
-Schwarz,"['Andreas Schwarz', 'Ferdinand Schwarz', 'Franz Xaver Schwarz']",['GR'],1700,1794,False,False,"[24, 35, 89, 135, 257, 258, 317, 318, 334, 349, 396, 398, 426, 429, 430, 475, 484, 504, 512, 513, 525, 563, 568, 606, 628, 638, 653]"
-Sewalt,['Georg Sewalt'],['GR'],1650,1670,False,False,"[22, 619]"
-Slooff,['Nico Sloof'],['NL'],1950,1970,False,False,[310]
-Stehle,['Gebrüder Stehle'],['CH'],1957,1957,False,False,[409]
-Steinhofer,"['Johann Michael Steinhoffer', 'Janez Mihael Steinhofer', '*Janez Mihael Zajc', '*Johann Michael Seitz']",['LJ'],1720,1741,False,False,"[24, 34, 124, 331, 392]"
-Steinmann,['Gustav Steinmann Orgelbau'],['DE'],1960,1960,False,False,[103]
-Sweetland,['William Sweetland'],['GB'],1888,1888,False,False,[98]
-Szalay,['Gyula Szalay'],['HU'],1897,1897,False,False,[139]
-Škrabl,['Anton Škrabl'],['CE'],1990,2018,False,False,"[31, 39, 53, 63, 64, 68, 74, 97, 98, 103, 105, 109, 112, 113, 116, 123, 135, 141, 144, 155, 159, 165, 166, 168, 173, 175, 183, 189, 192, 195, 196, 203, 204, 208, 216, 220, 221, 223, 233, 247, 251, 253, 274, 275, 304, 310, 318, 324, 329, 333, 344, 345, 347, 351, 356, 359, 364, 365, 369, 372, 374, 377, 393, 394, 406, 407, 412, 426, 430, 431, 443, 444, 450, 452, 462, 465, 470, 495, 496, 497, 499, 512, 513, 515, 521, 525, 533, 537, 540, 541, 542, 544, 552, 553, 560, 567, 575, 582, 592, 596, 611, 625, 627, 632, 634, 641, 643, 649, 658, 670, 672]"
-Teisspacher,"['Michael Theisspacher', '*Michael Scheisspacher', '* Michael Tauffenbacher']",['GR'],1550,1550,False,False,"[19, 33, 286]"
-Tonoli,['Giovanni Tonoli'],['IT'],1847,1886,False,False,"[64, 368, 369, 576]"
-Turk,['Anton Turk'],"['CE', 'DE']",1890,1901,False,False,[]
-Ulrich,[''],['MB'],1586,1586,False,False,"[19, 33]"
-Valentinčič,"['Anton Valentinčič', '*Janez Valentičič']","['LJ', 'CE', 'KO']",1844,1870,False,False,"[57, 92, 96, 168, 197, 296, 360, 377, 384, 417, 435, 496, 518, 526, 573, 609, 654]"
-Valiček,"['Josip Valiček', 'Jožef Valiček', 'Bogomil Valiček', 'Brata Valiček', 'Cecilia Gorica']",['GO'],1926,1971,False,False,"[29, 30, 38, 55, 56, 58, 109, 135, 136, 137, 153, 154, 155, 156, 157, 169, 187, 202, 222, 244, 308, 352, 368, 380, 381, 384, 385, 438, 447, 460, 482, 485, 503, 527, 543, 570, 616, 637]"
-Van Puffelen,['Karel Marinus van Puffelen'],['NL'],1873,1873,False,False,[377]
-Velej,"['Janez Velej', 'Johann Welley']",['CE'],1842,1864,False,False,"[27, 56, 68, 147, 203, 377, 387, 469]"
-Verschueren,['Leon Verschueren'],['NL'],1950,1970,True,True,"[169, 627]"
-Vicentini,"['Andrea Vicentini', 'Giacomo Vicentini', 'Bernardino Vicentini']",['IT'],1520,1535,False,False,"[19, 33, 219]"
-Vičič,['Miha Vičič'],['GO'],1830,1857,False,False,"[25, 28, 35, 37, 214, 558, 562]"
-Vrabec,['Janko Vrabec'],['NM'],1864,1887,False,False,"[148, 260, 418]"
-Walcker,[''],['DE'],1968,1981,False,False,"[30, 78, 292, 322, 330, 406, 410]"
-Walcker Mayer,[''],['DE'],1950,1962,True,False,"[125, 237, 410, 473, 521]"
-Wallenstein,"['Andreas Sebastian Wallenstein', 'Andrej Sebastjan Wallenstein']",['LJ'],1709,1709,False,False,"[24, 34, 286]"
-Weber,['Jožef Weber'],['CE'],1850,1860,False,False,[187]
-Werner,['Friedrich Werner'],['GR'],1872,1872,False,False,"[24, 35, 513, 566, 591]"
-Zanin,"['Valentino Zanin', 'Giuseppe Zanin', 'Pietro Zanin', 'Francesco Zanin']",['IT'],1878,1996,False,False,"[153, 179, 226, 472, 527, 558]"
-Zimnol,['Paul Zimnol'],['DE'],1969,1969,False,False,[421]
-Zitzman,"['Georg Zitzmann', 'Zitzmann & Jeschek']",['GO'],1928,1930,False,False,"[29, 80, 161, 342, 447, 490, 619]"
-Zupan,"['Ignacij Zupan st.', 'Ignacij Zupan ml.', 'Ivan Zupan', 'Ignacij Zupan in sinova', 'Brata Zupan']",['LJ'],1869,1915,False,False,"[27, 29, 38, 53, 59, 66, 75, 76, 80, 83, 93, 109, 112, 118, 120, 122, 137, 145, 157, 169, 170, 171, 176, 180, 191, 197, 202, 203, 213, 217, 227, 228, 232, 241, 254, 256, 257, 279, 282, 290, 305, 308, 312, 324, 325, 330, 331, 335, 338, 342, 348, 350, 368, 369, 370, 372, 385, 389, 390, 394, 399, 400, 411, 429, 431, 435, 436, 440, 441, 442, 444, 447, 456, 457, 465, 466, 467, 480, 482, 483, 489, 490, 493, 497, 499, 500, 513, 514, 523, 532, 537, 548, 549, 552, 555, 568, 570, 571, 591, 596, 599, 608, 613, 617, 620, 621, 635, 644]"
+kratek_naziv,drugi_nazivi,zacetek_aktivnosti,konec_aktivnosti,domneven_zacetek,domneven_konec,obmocja_delovanja,strani_z_omembo
+Aletti,['Fratelli Aletti'],1927,1927,False,False,['IT'],"[163, 420]"
+Allgäuer,['Helmut Algäuer'],1997,1997,False,False,['AT'],[594]
+Angster,['Josef Angster'],1884,1918,False,False,['HU'],"[29, 38, 75, 130, 166, 175, 203, 247, 327, 329, 341, 345, 450, 465, 574]"
+Antolić,['Filip Antolić Soban'],1983,1983,False,False,['HR'],"[195, 203, 351, 357, 614]"
+Bencz,"['Georgio Bencz', 'Jurij Benč']",1935,1940,False,False,['GO'],"[25, 29, 38, 121, 153, 185, 215, 219, 369, 380, 549, 572, 611, 634]"
+Benda,['Andrej Benda'],1951,1969,False,False,['LJ'],"[25, 29, 58, 73, 111, 112, 120, 127, 296, 333, 337, 382, 396, 431, 447, 457, 480, 499, 511, 529, 531, 532, 551, 560, 597, 603, 623, 624, 634, 661]"
+Bervar,['Josip Bervar'],1890,1898,False,False,['CE'],"[171, 325, 343, 620]"
+Bilih,"['Jernej Bilih', 'Batholomä Billich']",1837,1887,False,False,['CE'],"[27, 45, 124, 158, 179, 187, 191, 194, 204, 244, 311, 327, 336, 347, 366, 375, 409, 415, 423, 443, 504, 522, 525, 529, 544, 561, 623, 642]"
+Blanc,['Pietro Blanc Albo'],1464,1470,False,False,['GO'],[18]
+Bosch,['Werner Bosch'],1950,1970,True,True,['DE'],[372]
+Bossi,"['Pietro Antonio Bossi', 'Vicenzo Bossi', 'Pietro A. di Giuseppe Bossi']",1801,1882,False,False,['GO'],"[25, 28, 35, 37, 211, 378, 407, 447, 514, 544, 562, 612]"
+Bračko,['Ludvik Bračko'],1990,2013,False,False,['MB'],"[89, 90, 199, 256, 307, 311, 317, 318, 321, 335, 370, 415, 430, 440, 475, 477, 525, 564, 599, 627, 628, 640]"
+Brandl,['Josip Brandl'],1894,1938,False,False,['MB'],"[29, 30, 38, 80, 84, 85, 106, 107, 136, 161, 162, 173, 174, 187, 189, 193, 196, 199, 222, 225, 235, 240, 253, 256, 279, 306, 307, 311, 316, 317, 318, 319, 322, 324, 328, 334, 335, 336, 347, 365, 371, 373, 380, 387, 388, 396, 401, 404, 412, 424, 426, 428, 438, 439, 445, 448, 470, 473, 477, 486, 488, 495, 506, 512, 513, 518, 525, 556, 557, 570, 572, 577, 579, 590, 599, 607, 611, 614, 621, 627, 628, 640, 642]"
+Bukovšek,['Marijan Bukovšek'],2000,2018,False,False,['LJ'],"[58, 59, 60, 65, 78, 126, 143, 144, 152, 200, 251, 271, 305, 334, 390, 396, 409, 415, 420, 429, 435, 439, 466, 501, 506, 517, 562, 572, 599, 619, 634, 646, 671, 673]"
+Cajhen,"['Martin Cajhen', 'Martin Zeichen']",1858,1866,False,False,['CE'],"[28, 37, 45, 61, 63, 65, 87, 349, 402, 409, 419, 440, 455, 477, 481, 486, 509, 564, 637]"
+Callido,"['Gaetano Callido', 'Antonio Callido', 'Agostino Callido']",1769,1803,False,False,['IT'],"[25, 28, 35, 37, 185, 217, 219, 318, 377, 378, 407, 558, 626]"
+Casparini,"['Eugenio Casparini', 'Johann Eugen Caspar']",1660,1698,False,False,"['DE', 'GO', 'IT']","[22, 24, 33, 34, 364]"
+Colarič,['Franc Colarič'],1880,1897,False,False,['KO'],[25]
+Cecilia,"['Cecilia Gorica', 'Caecilia Gorizia']",1928,1934,False,False,['GO'],"[29, 32, 38, 53, 54, 56, 147, 153, 154, 168, 169, 207, 225, 253, 466, 528, 575, 678]"
+Collona,['Vincenzo Colonna'],1606,1606,False,False,['IT'],"[19, 33]"
+Corte,['Pietro de Corte'],1851,1864,False,False,['GO'],[25]
+Černe,['Boštjan Černe'],1990,2018,False,False,['LJ'],"[31, 39, 73, 77, 119, 120, 121, 128, 135, 154, 155, 199, 206, 213, 222, 226, 232, 257, 275, 280, 308, 314, 331, 343, 358, 362, 377, 385, 392, 413, 426, 438, 452, 461, 488, 490, 521, 525, 538, 549, 571, 572, 612, 621, 626, 630, 647, 648, 670, 673]"
+Dernič,['Anton Dernič'],1910,1928,False,False,['LJ'],"[29, 38, 64, 65, 72, 73, 86, 238, 289, 293, 294, 432, 447, 457, 483, 489, 499, 541, 563, 635]"
+Deutschmann,['Janez Deutschmann'],1860,1863,False,False,"['AT', 'MB']",[195]
+Dev,['Fran Ksaver Dev'],1855,1870,False,False,['LJ'],"[17, 27, 32, 34, 38, 47, 64, 65, 74, 82, 92, 122, 135, 137, 142, 168, 169, 170, 176, 204, 207, 209, 213, 215, 233, 235, 236, 237, 238, 240, 242, 251, 253, 256, 280, 286, 296, 307, 343, 360, 371, 375, 390, 391, 399, 422, 446, 448, 461, 467, 475, 491, 492, 515, 523, 535, 537, 551, 588, 597, 613, 622, 624, 626, 630, 648, 663, 676]"
+Dvoršak,"['Andrej Dvoršak', 'Orglarska delavnica Maribor']",2013,2018,False,False,['MB'],"[300, 373, 430, 486, 511]"
+Ebner,"['Leonhard Ebner', 'Lenart Ebner']",1855,1885,False,False,['MB'],"[27, 123, 126, 130, 147, 152, 154, 187, 211, 242, 249, 258, 322, 367, 451, 467, 469, 506, 592, 599, 607]"
+Eißl,"['Joannes Georgius Eißl', 'Johann Georg Eißl', 'Janez Jurij Eisel']",1753,1780,False,False,['LJ'],"[23, 24, 26, 34, 73, 135, 150, 171, 172, 194, 199, 216, 266, 275, 289, 349, 366, 455, 518, 529, 535, 549, 600, 602, 643, 647]"
+Faller,"['Janez Faller', 'Johann Faller']",1680,1733,False,True,['LJ'],"[24, 34, 111, 174, 340, 345, 404, 480, 496, 521, 604, 612, 630, 635]"
+Faust,['Paul Faust'],1948,1948,False,False,['DE'],[653]
+Fluder,['Caspar Fluder'],1668,1680,False,False,['AT'],"[188, 340]"
+Freundt,['Johannes Freundt'],1660,1680,False,False,['DE'],"[22, 33]"
+Frobenius,['Frobenius Orgelbyggeri'],1957,1957,False,False,['DN'],[189]
+Georgius de Venetia,['Georgius de Venetia'],826,826,False,False,"['GO', 'IT']",[18]
+Göbl,"['Marko Göbl', 'Marcus Göbl']",1741,1754,False,False,['LJ'],"[24, 34, 199, 275, 420, 433, 606]"
+Goršič,"['Franc Goršič', 'Martin Goršič']",1856,1898,False,False,['LJ'],"[27, 28, 29, 31, 37, 38, 39, 43, 56, 65, 78, 93, 95, 101, 119, 132, 135, 149, 154, 163, 170, 176, 177, 180, 183, 201, 206, 207, 216, 221, 222, 225, 236, 264, 266, 268, 270, 289, 292, 293, 299, 300, 308, 325, 329, 333, 340, 356, 357, 364, 383, 390, 391, 399, 411, 412, 432, 433, 442, 443, 456, 466, 472, 479, 483, 488, 492, 493, 506, 518, 529, 536, 543, 547, 569, 582, 588, 602, 603, 608, 611, 623, 626, 627, 630, 631, 636, 644, 645, 646, 650]"
+Göstl,['Andrej Göstl'],1840,1858,False,False,['NM'],"[25, 501]"
+Grafenauer,"['Franc Grafenauer', 'Jožef Grafenauer']",1847,1913,False,False,['KO'],"[25, 28, 37]"
+Grebičičer,"['Ignac Grebičičer', 'Ignaz Grebitschitscher', 'Ignaz Grobitschitscher']",1725,1784,False,False,['KO'],[24]
+Habersack,['Stefan Habersack'],1719,1719,False,False,['GR'],[370]
+Hägglinger,['Jacob Hägglinger'],1696,1696,False,False,['GR'],"[484, 552, 609]"
+Hallecker,"['Alojz Hallecker', 'Alois Hallegger']",1873,1888,False,False,['MB'],"[443, 479]"
+Heferer,"['Michael Heferer', 'Mijo Heferer']",1873,1899,True,False,['HR'],"[406, 469, 571, 574]"
+Hesse,"['Karl Hesse', 'Carl Hesse']",1847,1852,False,False,['GO'],"[25, 28, 29, 25, 37, 121, 369, 399, 418, 571]"
+Hofbauer,[''],1982,1988,False,False,['DE'],"[143, 276, 288, 482, 580]"
+Hörbiger,"['Alois Hörbiger', 'Alois Herberg']",1842,1867,False,False,['CE'],"[28, 29, 37, 61, 85, 95, 101, 104, 111, 132, 136, 147, 151, 154, 155, 165, 167, 191, 192, 197, 243, 244, 247, 252, 275, 312, 374, 383, 394, 396, 402, 406, 415, 438, 440, 451, 470, 471, 491, 494, 495, 506, 508, 522, 535, 560, 561, 572, 590, 605, 622, 632, 640, 651]"
+Janeček,"['Janez Frančišek Janeček', 'Jan František Janeček', 'Johannes Franciscus Janechek']",1721,1777,False,False,['CE'],"[7, 24, 25, 26, 31, 35, 39, 43, 45, 66, 77, 78, 79, 87, 92, 97, 101, 109, 111, 112, 140, 172, 177, 179, 180, 243, 245, 258, 286, 308, 324, 351, 362, 375, 392, 422, 423, 435, 448, 451, 452, 458, 461, 470, 471, 495, 496, 512, 525, 535, 536, 549, 560, 561, 566, 573, 587, 591, 592, 616, 623, 630, 631, 632, 647, 651]"
+Jenko,"['Franc Jenko', 'Anton Jenko']",1927,1997,False,False,['LJ'],"[29, 30, 31, 38, 39, 55, 60, 64, 65, 67, 68, 69, 73, 75, 80, 82, 86, 90, 92, 99, 101, 102, 104, 105, 107, 110, 111, 116, 118, 121, 122, 123, 125, 132, 133, 135, 136, 138, 139, 143, 145, 148, 151, 152, 154, 161, 166, 170, 173, 175, 176, 177, 179, 182, 183, 190, 193, 201, 202, 205, 206, 207, 213, 215, 216, 217, 220, 223, 225, 227, 228, 234, 236, 242, 243, 252, 256, 257, 259, 260, 261, 264, 269, 271, 279, 280, 282, 288, 289, 291, 293, 294, 297, 299, 304, 306, 307, 309, 310, 314, 319, 321, 330, 334, 337, 338, 339, 341, 344, 350, 352, 353, 354, 356, 358, 370, 374, 377, 380, 381, 382, 383, 385, 389, 390, 391, 392, 393, 398, 399, 401, 405, 406, 411, 413, 414, 415, 417, 419, 420, 424, 425, 429, 430, 431, 435, 439, 441, 442, 444, 456, 461, 462, 464, 467, 469, 470, 474, 477, 483, 485, 500, 503, 510, 516, 518, 527, 529, 531, 533, 542, 543, 545, 546, 547, 548, 554, 555, 556, 557, 560, 564, 566, 569, 570, 571, 576, 577, 579, 580, 582, 583, 586, 590, 591, 593, 596, 600, 603, 604, 605, 606, 612, 615, 616, 617, 630, 634, 642, 646, 649, 650, 651, 653, 661]"
+Ježek,"['Karl Ježek', 'Zitzmann & Jeschek Fabricca Organi']",1925,1930,False,False,['GO'],"[29, 80, 161, 270, 342, 447, 490, 619, 646, 654]"
+Jydsk,['Jydsk Orgelbyggeri'],1968,1968,False,False,['DN'],[432]
+Kacin,['Ivan Kacin'],1925,1930,False,False,['GO'],"[29, 30, 38, 54, 56, 59, 67, 80, 86, 159, 169, 170, 196, 197, 202, 211, 237, 254, 282, 337, 352, 364, 369, 438, 440, 460, 549, 583, 643]"
+Kafka,['Adalbert Kafka'],1859,1880,False,False,['MB'],"[243, 322, 387, 426, 495, 605, 614]"
+Kaper,['Joseph Kaper'],1859,1880,False,False,['KO'],[252]
+Kerssenbrock,['Hubertus von Kerssenbrock'],1984,1988,False,False,['DE'],"[92, 97, 98, 101, 105, 109, 150, 172, 260, 302, 305, 404, 409, 431, 432, 493, 496, 497, 501, 587, 630, 631, 650]"
+Kheverspichler,"['Thomas Kheverspichler', ' Thomas Kheuerspiller']",1628,1652,False,False,['GR'],"[24, 35]"
+Knoller,['Franz Knoller'],1700,1730,False,False,['KO'],[399]
+Kolar,"['Simon Kolar', 'Orglarstvo Kolar']",1990,2018,False,False,['CE'],"[31, 35, 39, 63, 67, 72, 84, 98, 107, 118, 120, 125, 156, 167, 171, 188, 192, 225, 237, 262, 312, 322, 330, 334, 362, 372, 396, 410, 413, 417, 421, 428, 445, 473, 481, 483, 521, 528, 531, 539, 558, 560, 569, 584, 591, 594, 600, 616, 617, 627, 637, 638, 646, 650, 670, 672]"
+Korošak,"['Franc Korošak', 'Franz Koroschak']",1867,1891,False,False,"['MB', 'DE']","[137, 311, 488]"
+Košir,"['Brane Košir', 'Branko Košir', 'Orglarska delavnica Maribor']",1990,2018,False,False,"['MB', 'LJ']","[31, 39, 58, 75, 107, 109, 131, 149, 150, 162, 165, 174, 187, 205, 268, 270, 272, 282, 293, 300, 302, 305, 306, 311, 312, 315, 333, 367, 403, 404, 433, 436, 446, 458, 466, 480, 534, 536, 553, 621, 671, 673]"
+Krainz,"['Mathias Krainz', 'Matija Krainz']",1872,1882,False,False,"['GR', 'MB']","[28, 37, 90, 122, 221, 231, 307, 308, 321, 478, 486, 506, 572, 574, 639]"
+Krajnc,"['Mihael Krajnc', 'Michael Krainz']",1872,1882,False,False,"['GR', 'MB']","[28, 113, 122, 308, 321, 381, 478, 536, 558]"
+Krek,"['Tomaž Krek', 'Thomas Kruegh']",1647,1650,False,False,['LJ'],"[9, 22, 33, 109, 260, 496]"
+Krenn,['Orgelbau Krenn'],1991,1991,False,False,['DE'],[329]
+Kriegl,['Karol Kriegel'],1898,1904,False,False,['LJ'],"[160, 334, 364, 432, 510, 537, 543, 556, 569]"
+Križman,"['Frančišek Ksaver Križman', 'Franz Xaver Chrismann']",1761,1795,False,False,"['GO', 'LJ', 'AT']","[11, 22, 25, 31, 34, 35, 39, 43, 80, 93, 132, 188, 284, 286, 354, 356, 480, 588, 674]"
+Kučera,"['Josip Kučera', 'Joseph Alois Kutschera']",1781,1826,False,False,['LJ'],"[24, 26, 34, 45, 125, 360, 386, 431, 432, 480, 562, 584, 633, 643]"
+Kuhar,"['Janez Kuhar', 'Johann Kuher']",1899,1916,False,False,['KO'],"[116, 130, 334]"
+Kuhn,['Kuhn Orgelbau'],1979,1979,False,False,['CH'],[259]
+Kunath,"['Johann Gottfried Kunath', 'Janez Kunat', 'Eduard Kunad']",1818,1882,False,False,"['LJ', 'TS']","[25, 26, 28, 35, 37, 40, 57, 73, 103, 161, 213, 214, 284, 286, 294, 311, 329, 377, 385, 464, 472, 489, 493, 521, 538, 541, 547, 551, 552, 554, 563, 584, 600]"
+Lauterspeck,"['Christoph Lauterspeck', 'C. Lautterspeck', 'Johann Lauterspeck']",1641,1688,False,False,['CE'],"[22, 33, 426, 501, 502, 504, 619]"
+Lenarčič,"['Andrej Lenarčič', 'Acordia']",1987,2005,False,False,['LJ'],"[143, 227, 274, 296, 302, 422, 455, 469, 491, 558]"
+Lilling,['Hans Peter Lilling'],1607,1630,False,False,['GR'],"[24, 35]"
+Lindtner,['Mathias Lindtner'],1630,1650,False,False,['LJ'],"[22, 33]"
+Link,['Gebrüder Link'],1960,1960,False,False,['DE'],"[4, 14, 34, 35, 37, 40, 47, 389]"
+Lipušček,"['Ivan Lipušček', 'Janez Lipušček']",1893,1911,False,False,['GO'],"[58, 147, 156, 214, 254, 373, 389, 392, 447]"
+Lukman,['Drago Lukman'],2000,2018,False,False,['MB'],"[31, 39, 56, 156, 193, 209, 235, 306, 311, 315, 422, 423, 498, 529, 576, 606, 608, 671, 672]"
+Magister de Justinopoli,[''],1380,1390,False,False,['GO'],"[18, 32]"
+Malahovski,"['Andrej Ferdinand Malahovski', 'Ferdinandus Malachovsky', 'Andrej Malakhovky']",1840,1881,False,False,['LJ'],"[28, 37, 45, 58, 60, 78, 143, 144, 156, 179, 223, 225, 227, 238, 274, 288, 289, 291, 293, 306, 311, 335, 341, 390, 440, 484, 510, 538, 593, 602, 603, 623, 636, 639, 645, 653]"
+Malej,"['Ferdinand Malej', 'Ferdinand Mally']",1862,1862,False,False,['CE'],[252]
+Manderscheidt,['Sebald Manderscheidt'],1682,1682,False,False,['DE'],"[22, 33, 502]"
+Mandlin,"['Janez Mandlin', 'Johan Mandlin']",1852,1880,False,False,['NM'],"[27, 28, 37, 53, 96, 103, 125, 127, 150, 160, 338, 339, 358, 366, 404, 466, 472, 480, 532, 537, 572, 582, 586, 651]"
+Maribor,"['Škofijska orglarska delavnica', 'Orglarska delavnica Maribor']",1989,2018,False,False,['MB'],"[30, 54, 67, 74, 75, 83, 90, 92, 97, 99, 107, 112, 113, 122, 131, 137, 140, 148, 149, 150, 155, 157, 162, 173, 174, 176, 178, 180, 184, 187, 199, 203, 204, 205, 206, 209, 224, 230, 242, 245, 249, 261, 266, 268, 269, 270, 272, 279, 282, 286, 300, 302, 306, 311, 315, 319, 321, 325, 328, 360, 367, 368, 373, 387, 392, 399, 401, 403, 404, 415, 418, 430, 436, 437, 450, 451, 463, 464, 466, 467, 472, 480, 482, 486, 492, 495, 498, 501, 503, 510, 511, 514, 529, 534, 536, 548, 549, 555, 558, 563, 576, 579, 586, 588, 614, 620, 632, 636, 641, 655, 673, 670, 671]"
+Martenssons,['Martenssons Orgelfabrik'],1961,1961,False,False,['SW'],[88]
+Martl,"['Venčeslav Martl', 'Venceslavus Marthal']",1803,1825,False,False,['CE'],"[25, 26, 35, 45, 69, 77, 92, 112, 132, 143, 160, 170, 214, 233, 344, 348, 393, 402, 466, 470, 471, 481, 482, 499, 501, 504, 523, 533, 539, 566, 614, 621, 623]"
+Mascioni,['Fabbrica d’organi Mascioni'],1926,1988,False,False,['IT'],"[182, 318, 352, 508, 625]"
+Mauracher,"['Mathias Mauracher', 'Johann Mauracher']",1860,1912,False,False,['AT'],"[86, 97, 160, 215, 266, 324, 354, 381, 466, 611, 633]"
+Mayer,"['Gebrüder Mayer', 'Brata Mayer']",1902,1915,False,False,['AT'],"[58, 118, 125, 133, 161, 223, 235, 237, 271, 274, 334, 358, 371, 410, 426, 435, 473, 496, 510, 517, 521, 534, 538, 542, 546, 594]"
+Mencinger,"['Jakob Matzinger', '*Franc Mencinger']",1835,1835,False,False,['MB'],"[444, 600]"
+Merlini,['Francesco Merlini'],1805,1805,False,False,['IT'],"[25, 35, 217, 337]"
+Mihaljević,['Josip Mihaljević'],2016,2016,False,False,['HR'],"[64, 106, 349]"
+Milavec,['Ivan Milavec'],1904,1915,False,False,['LJ'],"[11, 12, 27, 29, 38, 54, 56, 58, 59, 60, 69, 73, 88, 110, 118, 123, 128, 132, 141, 142, 143, 147, 165, 180, 188, 199, 200, 202, 225, 230, 231, 233, 236, 261, 264, 280, 284, 286, 300, 314, 333, 380, 412, 413, 438, 463, 482, 515, 540, 545, 562, 573, 577, 579, 583, 586, 593, 619, 624, 653, 654]"
+Mitterreiter,"['Andreas Mitterreiter', 'Georg Mitterreiter']",1726,1737,False,False,['GR'],"[24, 35, 82, 95, 306, 426, 491, 576]"
+Močnik,"['Tomaž Močnik', 'Orglarstvo Močnik']",1998,2018,False,False,['LJ'],"[31, 39, 55, 59, 60, 67, 83, 88, 89, 93, 95, 109, 111, 112, 118, 150, 165, 171, 172, 173, 189, 205, 230, 233, 234, 242, 264, 268, 272, 277, 282, 290, 295, 304, 306, 343, 348, 356, 369, 371, 382, 386, 391, 420, 432, 456, 464, 466, 467, 479, 489, 491, 508, 518, 523, 529, 535, 539, 540, 564, 567, 568, 579, 580, 596, 597, 599, 607, 611, 620, 632, 636, 644, 645, 646, 653, 661, 670, 673]"
+Mönch,['Mönch Orgelbau Überlingen'],1943,1943,False,False,['DE'],"[305, 405]"
+Munda,['Zlatko Mudna'],2009,2018,False,False,['MB'],"[391, 396, 398, 617]"
+Nakić,"['Petar Nakić', 'Pietro Nachini', 'P. Nacchini', 'P.Nachik']",1743,1760,False,False,"['HR', 'IT']","[25, 35, 37, 178, 185, 217, 262, 287, 378, 407, 632]"
+Naraks,"['Franc Naraks', 'Ivan Naraks']",1856,1912,False,False,['CE'],"[27, 29, 38, 55, 78, 82, 90, 98, 99, 127, 140, 141, 142, 143, 156, 157, 159, 167, 175, 191, 192, 203, 240, 245, 315, 327, 329, 339, 374, 383, 384, 388, 391, 394, 395, 396, 400, 404, 409, 410, 417, 419, 420, 425, 436, 437, 445, 462, 464, 470, 498, 500, 501, 504, 512, 529, 533, 536, 555, 558, 561, 563, 567, 572, 573, 584, 590, 604, 623, 630, 637, 638, 639, 640, 646, 650]"
+Niclas argelmeister,[''],1452,1460,False,False,['MB'],[18]
+Novak,['Rudolf Novak'],1984,1984,False,False,['KO'],"[30, 105, 253, 448]"
+Oettl,['Hermann Oettl'],1968,1968,False,False,['DE'],[209]
+Omerzu,"['Anton Omerzu', 'Anton Omerzel']",1881,1889,False,False,['CE'],"[126, 226, 542, 607, 632]"
+Orszagh,['Országh Sándor és Fia'],1857,1857,False,False,['HU'],[428]
+Osredkar,"['Janez Osredkar', 'Lovro Osredkar']",1986,1994,False,False,['LJ'],"[122, 190, 261, 272, 275, 276, 295, 450]"
+Otonič,"['Simon Otoničer', 'Simon Otonitscher', 'Jožef Otonič', 'Joseph Otonitsch']",1765,1832,False,False,['MB'],"[24, 26, 35, 45, 126, 127, 149, 150, 173, 179, 190, 194, 196, 197, 235, 307, 312, 315, 366, 394, 395, 444, 445, 464, 473, 486, 491, 516, 540, 549, 553, 554, 591, 600, 642, 647]"
+Ottitsch,"['Walter Ottitsch', 'Bernhardt Ottitsch']",1986,1987,False,False,['KO'],"[78, 221, 321, 443]"
+Papa,['Jožef Papa'],1838,1841,False,False,"['LJ', 'HR']","[231, 574]"
+Pauhaus,"['Jurij Ulrik Pauhaus', ' Georg Ulrik Pauhauss']",1710,1730,False,False,['LJ'],"[24, 34]"
+Pavlinić,"['Glazbeni atelier Pavlinić', 'Zlatko Pavlinić']",2006,2006,False,False,['HR'],[640]
+Peppert,['Ferdinand Peppert'],1829,1872,False,False,['HU'],"[74, 168]"
+Peřina,['Anton Peřina'],1928,1941,False,False,['LJ'],[354]
+Pevec,['Franc Pevec'],1861,1861,False,False,['LJ'],"[7, 103, 175, 403, 462]"
+Pietro de Zuanne,[''],1530,1540,False,False,['IT'],"[19, 33]"
+Počivalšek,"['Matej Počivalšek', 'Mathias Počivalšek']",1856,1856,False,False,['CE'],[195]
+Porritt,['Joshua Porritt'],1906,1906,False,False,['GB'],[359]
+Posch,"['Izak Poš', 'Isaac Posch']",1617,1622,False,False,['AT'],"[22, 33]"
+Pračker,"['Elias Pračker', 'Elias Prozer', ' Elias Prätzer']",1725,1774,False,False,"['KO', 'AT']","[23, 34]"
+Pugina,['Annibale e fratello Pugina'],1897,1897,False,False,['IT'],"[377, 378]"
+Račič,['Andrej Račič'],1854,1870,False,False,['NM'],"[26, 28, 37, 103, 317, 584, 633]"
+Raktelj,['Dominik Raktelj'],1870,1888,False,False,['MB'],"[92, 93, 256, 315, 317, 370, 381, 486, 641]"
+Reiser,['Albert Reiser'],1940,1940,False,False,['DE'],[405]
+Rieger,['Gebrüder Rieger'],1883,1912,False,False,['CZ'],"[55, 99, 137, 138, 297, 347, 456, 609, 655]"
+Rojc,"['Peter Rojc', 'Peter Rojic']",1840,1875,False,False,['LJ'],"[27, 28, 37, 75, 147, 148, 161, 179, 213, 310, 369, 386, 464, 483, 488, 579, 635, 651, 653]"
+Römer,['Anton Josef Römer'],1764,1770,False,True,"['CZ', 'GR']","[23, 34, 193, 317, 564]"
+Rotenburg,"['Paul Rottenburger', 'Paul Rotenburg']",1639,1639,False,False,['KO'],"[19, 22, 26, 29, 33, 38]"
+Rumpel,"['Peter Rumpel', 'Peter Rumpl', 'Janez Rumpel']",1822,1860,False,False,['LJ'],"[25, 28, 35, 37, 90, 111, 113, 115, 122, 123, 124, 125, 127, 138, 142, 143, 147, 148, 157, 175, 181, 182, 184, 201, 213, 214, 227, 233, 236, 242, 253, 256, 302, 333, 343, 389, 399, 417, 445, 460, 461, 462, 464, 488, 510, 519, 526, 527, 531, 534, 539, 542, 547, 553, 556, 569, 572, 586, 622, 634, 636, 646, 647, 648]"
+Rupnik,['Mihael Rupnik'],1859,1891,False,False,['CE'],"[67, 115, 123, 233, 250, 354, 375, 377, 393, 452, 461, 462, 490, 502, 514, 592, 620, 628, 647, 648, 658]"
+Salb,['Josip Salb'],1850,1853,False,False,['MB'],"[153, 325, 445, 464, 465]"
+Sašek,['Matevž Sašek'],1874,1885,False,False,['NM'],"[156, 576]"
+Schehl,"['Karl Schehl', 'Carl Schehl', 'Karol Schechel', 'Franz Schehl', '*Karl Spel']",1825,1846,False,False,['GR'],"[67, 90, 150, 153, 189, 325, 417, 422, 426, 478, 503, 511, 536, 637, 642, 643]"
+Scholtz,"['Anton Scholtz', 'Antoni Scholz']",1778,1799,False,False,['CE'],"[25, 26, 35, 80, 92, 120, 144, 177, 232, 306, 327, 344, 350, 362, 366, 375, 395, 419, 442, 499, 512, 525, 539, 566, 579, 587, 608, 621]"
+Schuke,['Karl Schuke Berliner Orgelbauwerkstatt GmbH.'],1982,1982,False,False,['DE'],"[25, 30, 35, 39, 261]"
+Schwarz,"['Andreas Schwarz', 'Ferdinand Schwarz', 'Franz Xaver Schwarz']",1700,1794,False,False,['GR'],"[24, 35, 89, 135, 257, 258, 317, 318, 334, 349, 396, 398, 426, 429, 430, 475, 484, 504, 512, 513, 525, 563, 568, 606, 628, 638, 653]"
+Sewalt,['Georg Sewalt'],1650,1670,False,False,['GR'],"[22, 619]"
+Slooff,['Nico Sloof'],1950,1970,False,False,['NL'],[310]
+Stehle,['Gebrüder Stehle'],1957,1957,False,False,['CH'],[409]
+Steinhofer,"['Johann Michael Steinhoffer', 'Janez Mihael Steinhofer', '*Janez Mihael Zajc', '*Johann Michael Seitz']",1720,1741,False,False,['LJ'],"[24, 34, 124, 331, 392]"
+Steinmann,['Gustav Steinmann Orgelbau'],1960,1960,False,False,['DE'],[103]
+Sweetland,['William Sweetland'],1888,1888,False,False,['GB'],[98]
+Szalay,['Gyula Szalay'],1897,1897,False,False,['HU'],[139]
+Škrabl,['Anton Škrabl'],1990,2018,False,False,['CE'],"[31, 39, 53, 63, 64, 68, 74, 97, 98, 103, 105, 109, 112, 113, 116, 123, 135, 141, 144, 155, 159, 165, 166, 168, 173, 175, 183, 189, 192, 195, 196, 203, 204, 208, 216, 220, 221, 223, 233, 247, 251, 253, 274, 275, 304, 310, 318, 324, 329, 333, 344, 345, 347, 351, 356, 359, 364, 365, 369, 372, 374, 377, 393, 394, 406, 407, 412, 426, 430, 431, 443, 444, 450, 452, 462, 465, 470, 495, 496, 497, 499, 512, 513, 515, 521, 525, 533, 537, 540, 541, 542, 544, 552, 553, 560, 567, 575, 582, 592, 596, 611, 625, 627, 632, 634, 641, 643, 649, 658, 670, 672]"
+Teisspacher,"['Michael Theisspacher', '*Michael Scheisspacher', '* Michael Tauffenbacher']",1550,1550,False,False,['GR'],"[19, 33, 286]"
+Tonoli,['Giovanni Tonoli'],1847,1886,False,False,['IT'],"[64, 368, 369, 576]"
+Turk,['Anton Turk'],1890,1901,False,False,"['CE', 'DE']",[]
+Ulrich,[''],1586,1586,False,False,['MB'],"[19, 33]"
+Valentinčič,"['Anton Valentinčič', '*Janez Valentičič']",1844,1870,False,False,"['LJ', 'CE', 'KO']","[57, 92, 96, 168, 197, 296, 360, 377, 384, 417, 435, 496, 518, 526, 573, 609, 654]"
+Valiček,"['Josip Valiček', 'Jožef Valiček', 'Bogomil Valiček', 'Brata Valiček', 'Cecilia Gorica']",1926,1971,False,False,['GO'],"[29, 30, 38, 55, 56, 58, 109, 135, 136, 137, 153, 154, 155, 156, 157, 169, 187, 202, 222, 244, 308, 352, 368, 380, 381, 384, 385, 438, 447, 460, 482, 485, 503, 527, 543, 570, 616, 637]"
+Van Puffelen,['Karel Marinus van Puffelen'],1873,1873,False,False,['NL'],[377]
+Velej,"['Janez Velej', 'Johann Welley']",1842,1864,False,False,['CE'],"[27, 56, 68, 147, 203, 377, 387, 469]"
+Verschueren,['Leon Verschueren'],1950,1970,True,True,['NL'],"[169, 627]"
+Vicentini,"['Andrea Vicentini', 'Giacomo Vicentini', 'Bernardino Vicentini']",1520,1535,False,False,['IT'],"[19, 33, 219]"
+Vičič,['Miha Vičič'],1830,1857,False,False,['GO'],"[25, 28, 35, 37, 214, 558, 562]"
+Vrabec,['Janko Vrabec'],1864,1887,False,False,['NM'],"[148, 260, 418]"
+Walcker,[''],1968,1981,False,False,['DE'],"[30, 78, 292, 322, 330, 406, 410]"
+Walcker Mayer,[''],1950,1962,True,False,['DE'],"[125, 237, 410, 473, 521]"
+Wallenstein,"['Andreas Sebastian Wallenstein', 'Andrej Sebastjan Wallenstein']",1709,1709,False,False,['LJ'],"[24, 34, 286]"
+Weber,['Jožef Weber'],1850,1860,False,False,['CE'],[187]
+Werner,['Friedrich Werner'],1872,1872,False,False,['GR'],"[24, 35, 513, 566, 591]"
+Zanin,"['Valentino Zanin', 'Giuseppe Zanin', 'Pietro Zanin', 'Francesco Zanin']",1878,1996,False,False,['IT'],"[153, 179, 226, 472, 527, 558]"
+Zimnol,['Paul Zimnol'],1969,1969,False,False,['DE'],[421]
+Zitzman,"['Georg Zitzmann', 'Zitzmann & Jeschek']",1928,1930,False,False,['GO'],"[29, 80, 161, 342, 447, 490, 619]"
+Zupan,"['Ignacij Zupan st.', 'Ignacij Zupan ml.', 'Ivan Zupan', 'Ignacij Zupan in sinova', 'Brata Zupan']",1869,1915,False,False,['LJ'],"[27, 29, 38, 53, 59, 66, 75, 76, 80, 83, 93, 109, 112, 118, 120, 122, 137, 145, 157, 169, 170, 171, 176, 180, 191, 197, 202, 203, 213, 217, 227, 228, 232, 241, 254, 256, 257, 279, 282, 290, 305, 308, 312, 324, 325, 330, 331, 335, 338, 342, 348, 350, 368, 369, 370, 372, 385, 389, 390, 394, 399, 400, 411, 429, 431, 435, 436, 440, 441, 442, 444, 447, 456, 457, 465, 466, 467, 480, 482, 483, 489, 490, 493, 497, 499, 500, 513, 514, 523, 532, 537, 548, 549, 552, 555, 568, 570, 571, 591, 596, 599, 608, 613, 617, 620, 621, 635, 644]"
