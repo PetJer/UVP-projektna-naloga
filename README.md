@@ -8,6 +8,7 @@ Analizo sem izvedel na seznamu [orglarji](https://orgle.si/osebe.html).
 Jedro projekta je datoteka [`analiza.ipynb`](/analiza.ipynb), kjer so zajeti podatki analizirani glede na sledeča vprašanja:
 
 - Kako se je spreminjalo število aktivnih orglarjev na slovenskem območju.
+- Kako se je spreminjalo število aktivnih orglarjev po območjih.
 
 Za delovanje programov je potrebna python verzija vsaj `3.11` ter knjižnici [`pandas`](https://pypi.org/project/pandas/) in [`matplotlib`](https://pypi.org/project/matplotlib/) (priporočeno je delo v virtualnem okolju).
 
