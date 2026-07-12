@@ -10,6 +10,8 @@ Jedro projekta je datoteka [`analiza.ipynb`](/analiza.ipynb), kjer so zajeti pod
 - Kako se je spreminjalo število aktivnih orglarjev na slovenskem območju.
 - Kako se je spreminjalo število aktivnih orglarjev po območjih.
 - Kateri orglarji oziroma orglarske delavnice so bile najdlje aktivne.
+- Kateri orglarji so največkrat omenjeni.
+- Koliko je število omemb orglarjev po straneh.
 
 Za delovanje programov je potrebna python verzija vsaj `3.11` ter knjižnici [`pandas`](https://pypi.org/project/pandas/) in [`matplotlib`](https://pypi.org/project/matplotlib/) (priporočeno je delo v virtualnem okolju).
 
@@ -37,4 +39,4 @@ V datoteki [`orglarji.csv`](/podatki/orglarji.csv) se nahajajo zajeti podatki v 
 ### Opombe
 
 - Knjiga vsebuje podatke le do vključno leta 2018.
-- Pod orglarje štejemo tudi orglarske delavnice.
+- Vsa analiza je že bila narejena od avtorjev knjige, zato analiza v tej projektni nalogi poskuša biti izvirna, zatorej morda ne vsebuje najbolj zanimivih spoznanj.
