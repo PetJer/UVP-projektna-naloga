@@ -9,6 +9,7 @@ Jedro projekta je datoteka [`analiza.ipynb`](/analiza.ipynb), kjer so zajeti pod
 
 - Kako se je spreminjalo število aktivnih orglarjev na slovenskem območju.
 - Kako se je spreminjalo število aktivnih orglarjev po območjih.
+- Kateri orglarji oziroma orglarske delavnice so bile najdlje aktivne.
 
 Za delovanje programov je potrebna python verzija vsaj `3.11` ter knjižnici [`pandas`](https://pypi.org/project/pandas/) in [`matplotlib`](https://pypi.org/project/matplotlib/) (priporočeno je delo v virtualnem okolju).
 

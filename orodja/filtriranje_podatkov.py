@@ -14,7 +14,6 @@ def pridobi_orglarje_v_obdobju(org, zacetek, konec, glej_domnevno = True):
         print("Pridobitev orglarjev v obdobju ni bilo mogoče.")
 
 
-
 def pridobi_orglarje_po_desetletjih(org, zacetek, konec):
     try:
         return [
@@ -23,20 +22,6 @@ def pridobi_orglarje_po_desetletjih(org, zacetek, konec):
         ]
     except:
         print("Pridobitev orglarjev po desetletjih ni bilo mogoče.")
-
-
-def pridobi_cas_delovanja(org, kratek_naziv):
-    try:
-        orglar = org[org.kratek_naziv == kratek_naziv]
-
-        zacetek = orglar.zacetek_aktivnosti.values[0]
-        konec = orglar.konec_aktivnosti.values[0]
-
-        return konec - zacetek + 1
-    except:
-        print("Pridobitev časa delovanja orglarja ni bilo mogoče.")
-
-        return 0
 
 
 def pridobi_orglarje_v_obmocjih(org, iskana_obmocja):
