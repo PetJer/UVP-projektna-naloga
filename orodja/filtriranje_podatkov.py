@@ -14,10 +14,10 @@ def pridobi_orglarje_v_obdobju(org, zacetek, konec, glej_domnevno = True):
         print("Pridobitev orglarjev v obdobju ni bilo mogoče.")
 
 
-def pridobi_orglarje_po_desetletjih(org, zacetek, konec):
+def pridobi_orglarje_po_desetletjih(org, zacetek, konec, glej_domnevno = True):
     try:
         return [
-            pridobi_orglarje_v_obdobju(org, d, d + 10)
+            pridobi_orglarje_v_obdobju(org, d, d + 10, glej_domnevno)
             for d in range(zacetek, konec, 10)
         ]
     except:

@@ -9,6 +9,7 @@ Jedro projekta je datoteka [`analiza.ipynb`](/analiza.ipynb), kjer so zajeti pod
 
 - Kako se je spreminjalo število aktivnih orglarjev na slovenskem območju.
 - Kako se je spreminjalo število aktivnih orglarjev po območjih.
+- Kako se je spreminjalo število orglarjev z domnevnim obdobjem aktivnosti.
 - Kateri orglarji oziroma orglarske delavnice so bile najdlje aktivne.
 - Kateri orglarji so največkrat omenjeni.
 - Koliko je število omemb orglarjev po straneh.
