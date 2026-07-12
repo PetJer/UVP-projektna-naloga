@@ -12,6 +12,8 @@ Jedro projekta je datoteka [`analiza.ipynb`](/analiza.ipynb), kjer so zajeti pod
 - Kateri orglarji oziroma orglarske delavnice so bile najdlje aktivne.
 - Kateri orglarji so največkrat omenjeni.
 - Koliko je število omemb orglarjev po straneh.
+- Povezava med številom omemb in začetkom aktivnosti.
+- Povezava med številom omemb in številom drugih nazivov.
 
 Za delovanje programov je potrebna python verzija vsaj `3.11` ter knjižnici [`pandas`](https://pypi.org/project/pandas/) in [`matplotlib`](https://pypi.org/project/matplotlib/) (priporočeno je delo v virtualnem okolju).
 
@@ -36,7 +38,7 @@ V datoteki [`orglarji.csv`](/podatki/orglarji.csv) se nahajajo zajeti podatki v 
 | ------------ | -------------------------- | ------------------ | ---------------- | ---------------- | -------------- | ----------------- | ------------------------ |
 | Jenko        | [Franc Jenko, Anton Jenko] | 1927               | 1997             | False            | False          | [LJ]              | [29, 30, 31, 38, 39 ...] |
 
-### Opombe
+## Opombe
 
 - Knjiga vsebuje podatke le do vključno leta 2018.
 - Vsa analiza je že bila narejena od avtorjev knjige, zato analiza v tej projektni nalogi poskuša biti izvirna, zatorej morda ne vsebuje najbolj zanimivih spoznanj.
