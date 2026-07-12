@@ -13,6 +13,7 @@ Jedro projekta je datoteka [`analiza.ipynb`](/analiza.ipynb), kjer so zajeti pod
 - Kateri orglarji so največkrat omenjeni.
 - Koliko je število omemb orglarjev po straneh.
 - Povezava med številom omemb in začetkom aktivnosti.
+- Kateri orglarji oziroma orglarske delavnice imajo največ drugih nazivov.
 - Povezava med številom omemb in številom drugih nazivov.
 
 Za delovanje programov je potrebna python verzija vsaj `3.11` ter knjižnici [`pandas`](https://pypi.org/project/pandas/) in [`matplotlib`](https://pypi.org/project/matplotlib/) (priporočeno je delo v virtualnem okolju).
