@@ -35,7 +35,7 @@ def normaliziraj_strani(strani_):
             strani.extend(list(range(int(s1), int(s2)+1)))
         else:
             strani.append(int(s))
-    
+
     return strani
 
 
@@ -74,7 +74,10 @@ def pridobi_orglarje():
         for orglar_vrstica in orglarji_tabela:
 
             # Zajemanje podatkov o orglarju
-            orglar_ = [o.text.strip() for o in orglar_vrstica.find_elements(By.XPATH, ".//td")]
+            orglar_ = [
+                o.text.strip()
+                for o in orglar_vrstica.find_elements(By.XPATH, ".//td")
+            ]
 
             orglar = {}
 
@@ -82,17 +85,21 @@ def pridobi_orglarje():
             orglar["kratek_naziv"] = orglar_[0]
 
             # Drugi nazivi (celo ime, drugi zapisi imena, sodelavci, nasledniki ...)
-            orglar["drugi_nazivi"] = orglar_[1].replace(';', ',').replace('=', '').split(", ")
+            orglar["drugi_nazivi"] = (
+                orglar_[1].replace(';', ',').replace('=', '').split(", ")
+            )
 
             # Obdobje in območja delovanja
-            obdobje_, obmocja_ = re.search(r"(.*?)\s+\((.*)\)", orglar_[2]).groups()
+            obdobje_, obmocja_ = (
+                re.search(r"(.*?)\s+\((.*)\)", orglar_[2]).groups()
+            )
 
             obdobje_ = obdobje_.replace('–', '-')
             obdobje_ = re.search(r"(.*)-(.*)", obdobje_).groups()
             orglar.update(normaliziraj_obdobje(obdobje_[0], obdobje_[1]))
 
             orglar["obmocja_delovanja"] = obmocja_.split(", ")
-            
+
             # Strani z omembo orglarja v knjigi
             strani_ = orglar_[-1].replace('–', '-').split(", ")
             orglar["strani_z_omembo"] = normaliziraj_strani(strani_)
